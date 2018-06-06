@@ -1,0 +1,11 @@
+c:\users\djoni\source\repos\MailObserver\MailObserver\bin\Debug\MailObserver.exe.config
+c:\users\djoni\source\repos\MailObserver\MailObserver\bin\Debug\MailObserver.exe
+c:\users\djoni\source\repos\MailObserver\MailObserver\bin\Debug\MailObserver.pdb
+c:\users\djoni\source\repos\MailObserver\MailObserver\bin\Debug\Mail.dll
+c:\users\djoni\source\repos\MailObserver\MailObserver\bin\Debug\Newtonsoft.Json.dll
+c:\users\djoni\source\repos\MailObserver\MailObserver\bin\Debug\Mail.xml
+c:\users\djoni\source\repos\MailObserver\MailObserver\bin\Debug\Newtonsoft.Json.xml
+c:\users\djoni\source\repos\MailObserver\MailObserver\obj\Debug\MailObserver.csprojResolveAssemblyReference.cache
+c:\users\djoni\source\repos\MailObserver\MailObserver\obj\Debug\MailObserver.csproj.CoreCompileInputs.cache
+c:\users\djoni\source\repos\MailObserver\MailObserver\obj\Debug\MailObserver.exe
+c:\users\djoni\source\repos\MailObserver\MailObserver\obj\Debug\MailObserver.pdb
